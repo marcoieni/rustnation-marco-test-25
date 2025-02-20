@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0](https://github.com/marcoieni/rustnation-marco-test-25/compare/v0.1.0...v0.2.0) - 2025-02-20
+
+### Other
+
+- change fn name
+
 ## [0.1.0](https://github.com/marcoieni/rustnation-marco-test-25/releases/tag/v0.1.0) - 2025-02-20
 
 ### Other
